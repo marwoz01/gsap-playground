@@ -1,1 +1,1 @@
-# Ultimate GSAP Workshop Starter
+# GSAP Playground
